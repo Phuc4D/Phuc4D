@@ -28,7 +28,5 @@ Building data-driven gameplay systems in Ho Chi Minh City, Vietnam.
 
 ### 📊 GitHub Stats
 
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Phuc4D&show_icons=true&theme=radium&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc4D&layout=compact&theme=radium&hide_border=true&langs_count=3" />
-</div>
+![Phuc4D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phuc4D&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc4D&layout=compact&theme=dark&hide_border=true&langs_count=3)
