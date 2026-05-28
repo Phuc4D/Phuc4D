@@ -24,9 +24,3 @@ Building data-driven gameplay systems in Ho Chi Minh City, Vietnam.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Phuc4D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phuc4D&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc4D&layout=compact&theme=dark&hide_border=true&langs_count=3)
